@@ -26,5 +26,5 @@ print(f"Index created: {index}")
 
 
 # # Store Index
-# index.storage_context.persist("./storage")
+index.storage_context.persist("./storage")
 
