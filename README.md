@@ -7,5 +7,5 @@ The next generation of chatbots with generative AI capabilities will offer even 
 
 
 ## types of chatbots that use llm (large language models)
-![](img/chatbots-kinds.png)
+![](_img/chatbots-kinds.png)
 
