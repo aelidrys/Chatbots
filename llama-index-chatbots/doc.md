@@ -2,7 +2,7 @@
 
 ### [figma-graph](https://www.figma.com/board/533aIYOxhNWqI5BFpClo90/Untitled?node-id=0-1&p=f&t=NDnDF9UzGcvaOheh-0) of llama-index workflow
 
-![img](figma-graph.png)
+![img](../img/figma-graph.png)
 
 ## how llama-index work
 - #### load your data files (csv/pdf/txt...)
