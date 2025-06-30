@@ -7,7 +7,7 @@ The next generation of chatbots with generative AI capabilities will offer even 
 
 
 ## types of chatbots that use llm (large language models)
-![](_img/chatbots-kinds.png)
+![](img/chatbots-kinds.png)
 
 ## one of the most usaed technicks to create a chatbot is RAG Retrieval Augmented Generation
-![](_img/Rag.png)
+![](img/Rag.png)
